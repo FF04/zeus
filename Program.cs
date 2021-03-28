@@ -10,9 +10,7 @@ namespace zeus
 {// Zeus Mainfraim emulator 
     class Program
     {
-
-        // 
-
+//comment
         public static ConsoleColor normal = ConsoleColor.White;
         public static ConsoleColor blue = ConsoleColor.Blue;
         public static ConsoleColor Eingabe = ConsoleColor.Green;
