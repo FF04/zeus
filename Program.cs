@@ -11,6 +11,7 @@ namespace zeus
     class Program
     {
 //comment
+// new comment
         public static ConsoleColor normal = ConsoleColor.White;
         public static ConsoleColor blue = ConsoleColor.Blue;
         public static ConsoleColor Eingabe = ConsoleColor.Green;
