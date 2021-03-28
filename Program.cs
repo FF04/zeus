@@ -7,7 +7,7 @@ using System.IO;
 using System.Drawing;
 using static System.Console;
 namespace zeus
-{
+{// Zeus Mainfraim emulator
     class Program
     {
         public static ConsoleColor normal = ConsoleColor.White;
